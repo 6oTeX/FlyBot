@@ -46,7 +46,7 @@ FlyBot has an extensive list of all useful commands (**more than 100**) which ar
 FlyBot is pretty much at the end of development now, it will only be updated for the following things:
   
   * Bug fixes
-  * Bot customization though our Website
+  * Bot customization through our Website
   * Code optimisation
   * New discord features
 
