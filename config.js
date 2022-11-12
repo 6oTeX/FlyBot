@@ -1,7 +1,7 @@
 module.exports = {
-  OWNER_IDS: [305076863305515008], // Bot owner ID's
+  OWNER_IDS: [###], // Bot owner ID's
   PREFIX: "!", // Default prefix for the bot
-  SUPPORT_SERVER: "699230043192164424", // Your bot support server
+  SUPPORT_SERVER: "###", // Your bot support server
   PRESENCE: {
     ENABLED: true, // Whether or not the bot should update its status
     STATUS: "online", // The bot's status [online, idle, dnd, invisible]
@@ -18,7 +18,7 @@ module.exports = {
     SLASH: true, // Should the interactions be enabled
     CONTEXT: false, // Should contexts be enabled
     GLOBAL: false, // Should the interactions be registered globally
-    TEST_GUILD_ID: "743416263799341121", // Guild ID where the interactions should be registered. [** Test you commands here first **]
+    TEST_GUILD_ID: "###", // Guild ID where the interactions should be registered. [** Test you commands here first **]
   },
   XP_SYSTEM: {
     COOLDOWN: 5, // Cooldown in seconds between messages
