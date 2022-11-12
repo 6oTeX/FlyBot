@@ -13,7 +13,7 @@ If you liked this repository, feel free to leave a star ⭐ to help promote FlyB
 
 ### Features
 
-Automod is a feature-rich discord bot with new features constantly being updated! Current features include
+FlyBot is a feature-rich discord bot with new features constantly being updated! Current features include
 
 * **Auto-Moderation**: Power auto-moderation to keep your discord server clean
 * **Powerful Moderation with Logging**: Moderate and log every action you take
@@ -26,7 +26,7 @@ Automod is a feature-rich discord bot with new features constantly being updated
 
 ### Categories
 
-Automod has an extensive list of all useful commands (**more than 100**) which are categorized as follows
+FlyBot has an extensive list of all useful commands (**more than 100**) which are categorized as follows
 
 * **Automod**: `antighostping`, `antiinvites`, `antilinks`, `antiscam`, `maxlines`, `maxmentions`, ...
 * **Admin**: `welcome`, `farewell`, `reaction-roles`, ...
