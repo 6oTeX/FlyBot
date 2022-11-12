@@ -54,4 +54,4 @@ FlyBot is pretty much at the end of development now, it will only be updated for
 
 ## 📖 License
 
-Our License (https://github.com/6oTeX/Flybot/blob/main/LICENSE)
+Our License [FlyBot License](https://github.com/6oTeX/Flybot/blob/main/LICENSE)
