@@ -1,37 +1,15 @@
-# 🤖 About Me
+<h1 align="center">
+  <br>
+  FlyBot
+  <br>
+</h1>
 
-![Automod Bot](https://media.discordapp.net/attachments/856206298630455357/966214260768251904/2.-A-by-Nick-Matey.jpg)
 
-> An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus
+## ❓ About
 
-> Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client\_id=744597377406599188\&permissions=397602323830\&scope=bot%20applications.commands)
->
-> Support Server: [Join Here](https://discord.gg/uPBqMHu9X4)
->
-> Documentation URL: [Visit Here](https://github.com/MrrVit665/automod-bot/#README.md)
+FlyBot is a Discord auto-moderation Bot, fully customizable Discord bot that is constantly growing. You can invite it to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=736897708295716905&permissions=485846102&scope=bot) link!
 
-### Prerequisites
-
-* [Node.js](https://nodejs.org/en/) v16.6.0 or higher
-* [Git](https://git-scm.com/downloads)
-* [MongoDB](https://www.mongodb.com)
-
-### Getting Started
-
-* Open the terminal and run the following commands
-
-```
-git clone https://github.com/Khanmanan/automod-bot.git
-cd discord-js-bot
-npm install
-```
-
-* Wait for all the dependencies to be installed
-* Rename `.env.example` to `.env` and fill the values
-* Optionally edit `config.js`
-* Type `npm run start` to start the bot
-
-If you need any additional help, make sure to read our guides [here](docs/additional/installation.md)
+If you liked this repository, feel free to leave a star ⭐ to help promote FlyBot!
 
 ### Features
 
@@ -64,8 +42,16 @@ Automod has an extensive list of all useful commands (**more than 100**) which a
 
 A complete list of commands can be found in the [documentation](docs/commands/)
 
-### 🤝 Contributing
 
-* Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
-* Feel free to [Fork](https://github.com/Khanmanan/automod-bot/fork) this repository, create a feature branch and submit a pull request
-* You can check all the planned features [here](https://github.com/Khanmanan/automod-bot/projects) or make a request for one at our discord
+## 📝 To-Do
+
+FlyBot is pretty much at the end of development now, it will only be updated for the following things:
+  
+  * Bug fixes
+  * Bot customization though our Website
+  * Code optimisation
+  * New discord features
+
+## 📖 License
+
+Our License (https://github.com/6oTeX/Flybot/blob/main/LICENSE)
