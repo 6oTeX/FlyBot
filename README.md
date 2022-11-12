@@ -40,8 +40,6 @@ FlyBot has an extensive list of all useful commands (**more than 100**) which ar
 * **Ticket**: setup, close, log, ...
 * **Utility**: `proxies`, `translation`, `weather`, `covid`, ...
 
-A complete list of commands can be found in the [documentation](docs/commands/)
-
 
 ## 📝 To-Do
 
